@@ -20,12 +20,18 @@ Constraints
 1 <= N <= 10^6.
 
 Sample Testcase 0
- Testcase Input
- 10
- aabbeedpee
- Testcase Output
- aa$bbee$dpee$
+
+Testcase Input
+
+10
+aabbeedpee
+
+Testcase Output
+
+aa$bbee$dpee$
+
 Explanation
+
 The characters at index 1(‘a’) and index 2(‘a’) are vowels hence add a ‘$’ after index 2.
 The characters at index 5(‘e’) and index 6(‘e’) are vowels hence add a ‘$’ after index 6. 
 The characters at index 9(‘e’) and index 10(‘e’) are vowels hence add a ‘$’ after index 0.
